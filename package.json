@@ -1,7 +1,7 @@
 {
   "name": "nimblerouter",
   "version": "1.0.0",
-  "description": "A simple router library, can be used with single-page applications (SPAs) built with React, Angular, Vue, or any other front-end framework.",
+  "description": "A simple router library. Can be used with single-page applications (SPAs) built with React, Angular, Vue, or any other front-end framework.",
   "main": "router.js",
   "module": "router.js",
   "dependencies": {},
